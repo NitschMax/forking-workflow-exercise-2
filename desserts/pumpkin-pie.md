@@ -14,7 +14,6 @@
 - Pie shell
 - Nutmeg
 - Can of evaporated milk
-- 0.4 cup sugar
 - 0.5 tsp salt
 - 2 tsp cinnamon
 - 1 tsp ginger, ground or juice
